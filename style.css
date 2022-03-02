@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Redressed', sans-serif;
+}
+.header_div{
+    background-color: darkkhaki;
+    color: rgb(255, 255, 255);
+}
+.header_div p{
+    font-family: 'Redressed', sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family:'Redressed', sans-serif ;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+#heading{
+    font-style: italic;
+    font-weight: bold;
+}
+.copy-right-footer{
+    position: fixed;
+    color:darkseagreen;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    background: cornsilk;
+    text-shadow: 5px 5px 5px rgb(150, 145, 140);
+    
+}
